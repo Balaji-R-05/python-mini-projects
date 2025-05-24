@@ -19,4 +19,4 @@ img = qr_code.make_image(
     fill_color="Red",  # Color of the QR code H
     back_color="White"  # Background color of the QR code
 )
-img.save("qr-code-generator\qrcode.png")
+img.save("qr-code-generator\demo.png")
